@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/yestabacaria/static/css/main.11216805.css",
-    "main.js": "/yestabacaria/static/js/main.3ff47ea1.js",
+    "main.js": "/yestabacaria/static/js/main.288ed535.js",
     "static/media/hero-bcg-2.jpeg": "/yestabacaria/static/media/hero-bcg-2.d75a7c33ebae0df4d34d.jpeg",
     "static/media/hero-bcg.jpeg": "/yestabacaria/static/media/hero-bcg.d75a7c33ebae0df4d34d.jpeg",
     "static/media/logo.svg": "/yestabacaria/static/media/logo.58fce6b300d72da7ffca684528c94036.svg",
     "index.html": "/yestabacaria/index.html",
     "main.11216805.css.map": "/yestabacaria/static/css/main.11216805.css.map",
-    "main.3ff47ea1.js.map": "/yestabacaria/static/js/main.3ff47ea1.js.map"
+    "main.288ed535.js.map": "/yestabacaria/static/js/main.288ed535.js.map"
   },
   "entrypoints": [
     "static/css/main.11216805.css",
-    "static/js/main.3ff47ea1.js"
+    "static/js/main.288ed535.js"
   ]
 }
